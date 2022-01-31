@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "433503282540",
+    "firebase_url": "https://video-conference-fc20f-default-rtdb.firebaseio.com",
+    "project_id": "video-conference-fc20f",
+    "storage_bucket": "video-conference-fc20f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433503282540:android:b62d8ecbd1d4cc3435bf49",
+        "android_client_info": {
+          "package_name": "com.example.video_conference_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433503282540-jpb3sbllsada0806b5uacqdpnutqd087.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCzrmnWqvLCzNsmvLjvCVLpZ79slAAmT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433503282540-jpb3sbllsada0806b5uacqdpnutqd087.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "433503282540-u7097mgkn1pdrf32bf92st5prrchs0nl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
